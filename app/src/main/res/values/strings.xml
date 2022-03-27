@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">JaniCoder</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="no_account">No Account Yet? Register Now</string>
+    <string name="participant">Participant</string>
+    <string name="event_manager">Event Manager</string>
+    <string name="sponsor">Sponsor</string>
+    <string name="create_account">Create Account</string>
+    <string name="existing_account">Already have an Account? Login</string>
+    <string name="name">Name</string>
+</resources>

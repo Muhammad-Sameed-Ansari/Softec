@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "48539236349",
+    "project_id": "softec-a07c3",
+    "storage_bucket": "softec-a07c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48539236349:android:f5d345d1cfb3ad15c28b94",
+        "android_client_info": {
+          "package_name": "com.example.janicoder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "48539236349-ckvq3b40tq0m8oqpqdalppqf5g4lvts5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAr7JYVxNywVuZL5Vv8g2YWibcXTAfEkBk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "48539236349-ckvq3b40tq0m8oqpqdalppqf5g4lvts5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
